@@ -12,6 +12,6 @@ public class SuperClassSubClassDemo {
         mySubClassObject.setMessage("This is a subclass"); //sætter en ny message istedet for objectmessage fra superclassen til subclassen.
 
         mySuperClassObject.getMessage(); //Printer den nye besked.
-        mySubClassObject.getMessage(); //Printer den nye besked. 
+        mySubClassObject.getMessage(); //Printer den nye besked.
     }
 }
